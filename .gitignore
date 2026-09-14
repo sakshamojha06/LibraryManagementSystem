@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio and JetBrains
+.vs/
+.idea/
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+
+# User-specific .NET files
+*.user
+*.userosscache
+*.suo
+
+# NuGet and test artifacts
+packages/
+TestResults/
+*.nupkg
+*.snupkg
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+.vite/
+
+# Local environment files
+.env
+.env.*
+!.env.example
